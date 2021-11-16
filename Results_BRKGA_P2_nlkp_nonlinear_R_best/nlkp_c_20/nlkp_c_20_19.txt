@@ -1,0 +1,12 @@
+LS; instances/nao_linear/continuous/20obj/nlkp_c_20_19; 648.735; 180.001; 17.4989; 
+LS; instances/nao_linear/continuous/20obj/nlkp_c_20_19; 648.678; 180.001; 7.29212; 
+LS; instances/nao_linear/continuous/20obj/nlkp_c_20_19; 648.62; 180.001; 174.217; 
+LS; instances/nao_linear/continuous/20obj/nlkp_c_20_19; 648.428; 180.001; 106.866; 
+LS; instances/nao_linear/continuous/20obj/nlkp_c_20_19; 648.699; 180; 130.883; 
+LS; instances/nao_linear/continuous/20obj/nlkp_c_20_19; 648.69; 180; 24.0759; 
+LS; instances/nao_linear/continuous/20obj/nlkp_c_20_19; 648.448; 180; 24.7222; 
+LS; instances/nao_linear/continuous/20obj/nlkp_c_20_19; 648.623; 180.001; 73.9882; 
+LS; instances/nao_linear/continuous/20obj/nlkp_c_20_19; 648.758; 180.001; 48.5047; 
+LS; instances/nao_linear/continuous/20obj/nlkp_c_20_19; 648.694; 180.001; 1.47631; 
+LS; resultado: instances/nao_linear/continuous/20obj/nlkp_c_20_19; 648.758;  48.5047;   648.637; 60.9524; 180.001; 270009;
+
