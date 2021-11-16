@@ -1,0 +1,12 @@
+LS; instances/nao_linear/integer/20obj/nlkp_i_20_3; 573.449; 180.001; 6.43912; 
+LS; instances/nao_linear/integer/20obj/nlkp_i_20_3; 581.573; 180.001; 12.0405; 
+LS; instances/nao_linear/integer/20obj/nlkp_i_20_3; 581.444; 180.001; 30.0018; 
+LS; instances/nao_linear/integer/20obj/nlkp_i_20_3; 573.449; 180; 41.5774; 
+LS; instances/nao_linear/integer/20obj/nlkp_i_20_3; 574.049; 180; 20.1191; 
+LS; instances/nao_linear/integer/20obj/nlkp_i_20_3; 573.434; 180.001; 3.1505; 
+LS; instances/nao_linear/integer/20obj/nlkp_i_20_3; 574.049; 180; 27.5469; 
+LS; instances/nao_linear/integer/20obj/nlkp_i_20_3; 581.573; 180.001; 136.981; 
+LS; instances/nao_linear/integer/20obj/nlkp_i_20_3; 574.035; 180.002; 162.655; 
+LS; instances/nao_linear/integer/20obj/nlkp_i_20_3; 573.448; 180.001; 0.001771; 
+LS; resultado: instances/nao_linear/integer/20obj/nlkp_i_20_3; 581.573;  12.0405;   576.05; 44.0513; 180.001; 270002;
+
